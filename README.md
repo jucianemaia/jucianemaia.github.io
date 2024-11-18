@@ -1,4 +1,3 @@
-# jucigm.github.io
 # Bem-vindo(a) ao meu GitHub! 👋
 
 ## Sobre Mim
