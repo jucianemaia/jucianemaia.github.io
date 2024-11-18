@@ -14,7 +14,7 @@ Olá! Eu sou Juciane Maia, Analista de Sistemas e Física, atualmente em uma jor
 
 - **[Projeto de Mestrado](link_projeto_mestrado):** Pesquisa em algoritmos de otimização para aplicações em assistência social.
 - **[Projeto de Jogos Educativos](link_projeto_jogos):** Jogos interativos para ensino de eletricidade.
-- **[Projeto de Simulação Gravitacional em 3D com three.js():** Simulação em 3D com three.js para ensino de Gravitação Universal.
+- **[Projeto de Simulação Gravitacional em 3D com three.js()](link_projeto_simulacao):** Simulação em 3D com three.js para ensino de Gravitação Universal.
 - **[Aula Interativa sobre Energia](link_aula_energia):** Slides e materiais de apoio para ensino de física sobre energia cinética e potencial.
 - **[Projetos no PIBID](link_projetos_pibid):** Desenvolvimento de materiais pedagógicos com robótica e simulações computacionais.
 
