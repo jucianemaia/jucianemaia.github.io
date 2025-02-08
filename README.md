@@ -10,17 +10,9 @@ Olá! Eu sou Juciane Maia, Analista de Sistemas e Física, atualmente em uma jor
 - **Ferramentas e Tecnologias:** Git, GitHub, Docker, VSCode
 - **Áreas de Interesse:** Aprendizado de Máquina, Física Computacional, Desenvolvimento Web, Ciência de Dados
 
-## Projetos em Destaque
-
-- **[Projeto de Mestrado](link_projeto_mestrado):** Pesquisa em algoritmos de otimização para aplicações em assistência social.
-- **[Projeto de Jogos Educativos](link_projeto_jogos):** Jogos interativos para ensino de eletricidade.
-- **[Projeto de Simulação Gravitacional em 3D com three.js()](link_projeto_simulacao):** Simulação em 3D com three.js para ensino de Gravitação Universal.
-- **[Aula Interativa sobre Energia](link_aula_energia):** Slides e materiais de apoio para ensino de física sobre energia cinética e potencial.
-- **[Projetos no PIBID](link_projetos_pibid):** Desenvolvimento de materiais pedagógicos com robótica e simulações computacionais.
-
 ## Conecte-se Comigo
 
-- **LinkedIn:** [seu-perfil-linkedin](https://www.linkedin.com/in/jucigm)
+- **LinkedIn:** [Juciane Maia](https://www.linkedin.com/in/jucianemaia/)
 - **E-mail:** juciane@live.com
 
 ## Como Contribuir
